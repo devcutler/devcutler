@@ -23,6 +23,18 @@ I'm a student, with a passion for programming.
 
 ### Current Projects
 
+<!-- mooshroom -->
+
+<details>
+<summary>
+<h4>mooshroom</h4> <h6>A command-line tool to download JAR files from Mojang.</h6>
+</summary>
+
+This is a tool I developed to help me personally with downloading any version of Minecraft as a JAR file in an automatic way. I needed a simple way to get JAR files that I could use via either a command line (over SSH, in this case), or via a secondary tool, like a UI I developed for my personal usage to manage my own Minecraft server for my friends.
+
+</details>
+
+
 <!-- powah -->
 
 <details>
@@ -30,7 +42,7 @@ I'm a student, with a passion for programming.
 <h4>powah</h4> <h6>A game about generating electricity through the technological ages, written in C# with Monogame.</h6>
 </summary>
 
-I love automation and real-time strategy games. Factorio and Age Of Empires 2 with my dad are some of my fondest memories, and they've always been my favorite games, even now, eight to ten years later. Resource management is something that is incredibly fun for me, and I really enjoy designing systems to maximise efficiency and optimise production methods.
+I love automation, real-time strategy, and resource management games. Factorio and Age Of Empires 2 with my dad are some of my fondest memories, and they've always been my favorite games, even now, eight to ten years later. Resource management is something that is incredibly fun for me, and I really enjoy designing systems to maximise efficiency and optimise production methods.
 
 `<image to go here>`
 
